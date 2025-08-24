@@ -10,5 +10,5 @@ This repo contains examples of GUI tools created with powershell using the Syste
 
 ## Forms Demo
 
-This demo has a window with tabs. Each tab has various controls of a certain catagory. As an example the first tab contains inputs such as a textbox, textarea, chckboxes and radio buttons. 
+This demo has a window with tabs. Each tab has various controls of a certain catagory. As an example the first tab contains inputs such as a textbox, textarea, checkboxes and radio buttons. 
 
