@@ -3,7 +3,7 @@
 This repo contains examples of GUI tools created with powershell using the System.Windows.Forms assmembly. GUI forms can be used as...
 
 * specialized troubleshooting tools
-* frontends to initiate automation
+* front-ends to initiate automation
 * operational tools with guardrails such as value lists for parameters
 
 ---
