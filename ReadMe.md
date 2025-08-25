@@ -16,6 +16,6 @@ This demo has a window with tabs. Each tab has various controls of a certain cat
 
 This is a very simple Forms example. The window has a textarea where the user can enter a list of targets to ping. Clicking the Ping List button will execute the ping on the targets. A gridview shows the results.
 
-## List Compare (Coming Soon)
+## List Compare
 
-This is a simple Forms example to compare lists. The user can enter two different lists. A comparison will tell the user where the llists match and where an entry is unique to one list or the other.
+This is a simple Forms example to compare lists. The user can enter two different lists. A comparison will tell the user where the lists match and where an entry is unique to one list or the other.
